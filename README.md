@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-1. [Group Composition](#group_composition)
-2. [Obtain models](#obtain_models)
+1. [Group Composition](#group-composition)
+2. [Obtain models](#obtain-models)
 3. [Dataset](#dataset)
 4. [Candidates](#candidates)
 5. [Metrics](#metrics)
 6. [EvolvedCTRL](#evolvedCTRL)
-7. [Google Drive Connections](#gdrive_connection)
+7. [Google Drive Connections](#gdrive-connection)
 
 ## Group Composition:
 
