@@ -8,7 +8,7 @@
 4. [Candidates](#candidates)
 5. [Metrics](#metrics)
 6. [EvolvedCTRL](#evolvedCTRL)
-7. [Google Drive Connections](#gdrive-connection)
+7. [Google Drive Connections](#google-drive-connections)
 
 ## Group Composition:
 
